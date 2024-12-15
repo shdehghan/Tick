@@ -60,5 +60,8 @@ int main()
     cout << "obj2.staticNum: " << obj2.staticNum << endl;
     cout << "StaticLearning::staticNum: " << StaticLearning::staticNum << endl;
 
+
+    cout << "BAH BAH" << endl;
+
     return 0;
 }
